@@ -2,7 +2,7 @@
 
 ## Dependencies:
 
-- Visual Studio 2013
+- Visual Studio 2017
 - Git and Git bash http://git-scm.com/downloads
 - CMake 2.8 or newer http://www.cmake.org/download/
 - Python 2.7 for LLVM
